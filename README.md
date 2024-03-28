@@ -7,7 +7,7 @@
 - <b>PowerShell</b>
   - [](https://github.com/degarci8)
  
-<h2>👨‍💻 Programming Projects:</h2>
+<h2>👨‍💻 Language Courses:</h2>
 
 - <b>Python</b>
   - [](https://github.com/degarci8)
